@@ -14,7 +14,11 @@ a{
 a:hover{
 	background-color:yellow;
 }
-.modImg2{
+#modImg2{
+	height:200px;
+	width:200px;
+}
+#modImg3{
 	height:200px;
 	width:200px;
 }
