@@ -14,7 +14,7 @@ a{
 a:hover{
 	background-color:yellow;
 }
-img{
+.modImg2{
 	height:200px;
 	width:200px;
 }
@@ -92,6 +92,11 @@ td:hover{
 }
 .table-curved tr:last-child td:last-child {
     border-radius: 0 0 6px 0;
+}
+#modImg{
+	position:fixed;
+	height:300px;
+	width:420px;
 }
 #big{
 	font-weight:bold;
