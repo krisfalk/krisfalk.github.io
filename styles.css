@@ -1,0 +1,196 @@
+body{
+	background-image: url("http://pre05.deviantart.net/496b/th/pre/f/2015/358/8/4/rick_and_morty__without_background__by_brunoxable-d9lc8e1.png");
+	font-family: serif;
+}
+span{
+	background-color:white;
+	font-size:200%;
+	color: green;
+}
+a{
+	background-color:white;
+	text-decoration:none;
+}
+a:hover{
+	background-color:yellow;
+}
+img{
+	height:200px;
+	width:200px;
+}
+h1{
+	width: 600px;
+	border: 2px solid black;
+	border-radius: 5px;
+	background-color:white;
+}
+.hoverClass:hover{
+	color:orange;	
+	border: 2px solid orange;
+}
+h3{
+	color: blue;
+	background-color:white;
+	width:270px;
+}
+ul{
+	text-align:left;
+	width:190px;
+	background-color:white;
+}
+ol{
+	text-align:left;
+	width:190px;
+	background-color:white;
+}
+li{
+	font-weight:bold;
+	font-size:17px;
+}
+li:hover{
+	font-size:140%;
+}
+table{
+	background-color:white;
+	font-size:18px;
+}
+td{
+	padding:5px;
+	border:1px solid blue;
+	border-radius:5px;
+}
+td:hover{
+	color:red;
+	border-color:red;
+}
+.table-curved {
+    border-collapse: separate;
+}
+.table-curved {
+    border: solid #ccc 1px;
+    border-radius: 6px;
+    border-left:0px;
+}
+.table-curved td, .table-curved th {
+    border-left: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+}
+.table-curved th {
+    border-top: none;
+}
+.table-curved th:first-child {
+    border-radius: 6px sold blue;
+}
+.table-curved th:last-child {
+    border-radius: 0 6px 0 0;
+}
+.table-curved th:only-child{
+    border-radius: 6px 6px 0 0;
+}
+.table-curved tr:last-child td:first-child {
+    border-radius: 0 0 0 6px;
+}
+.table-curved tr:last-child td:last-child {
+    border-radius: 0 0 6px 0;
+}
+#big{
+	font-weight:bold;
+	font-size:150%;
+}
+#one:hover:after{
+	content: url("https://upload.wikimedia.org/wikipedia/de/thumb/3/37/Ff7-logo.jpg/286px-Ff7-logo.jpg");
+	display: block;
+	position: fixed;
+	bottom: 10%;
+	border:3px solid black;
+	background-color: white;
+}
+#two:hover:after{
+	content: url("http://zeldawiki.org/images/thumb/2/23/ALBW_Triforce.png/200px-ALBW_Triforce.png");
+	display: block;
+	position: fixed;
+	bottom: 10%;
+	border:3px solid black;
+	background-color: white;
+}
+#three:hover:after{
+	content: url("https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Super_Smash_Bros_4_merged_logo,_no_subtitle.png/220px-Super_Smash_Bros_4_merged_logo,_no_subtitle.png");
+	display: block;
+	position: fixed;
+	bottom: 10%;
+	border:3px solid black;
+	background-color: white;
+}
+
+#four:hover:after{
+	content: url("https://upload.wikimedia.org/wikipedia/en/7/72/Dead_Space_logo.jpg");
+	display: block;
+	position: fixed;
+	bottom: 10%;
+	border:3px solid black;
+	background-color: black;
+}
+#five:hover:after{
+	content: url("http://cdn.akamai.steamstatic.com/steam/apps/15100/header.jpg?t=1447351277");
+	display: block;
+	position: fixed;
+	bottom: 10%;
+	border:3px solid black;
+	background-color: white;
+}
+#six:hover:after{
+	content: url("http://www.digitalstrips.com/wp-content/super-mario-galaxy.jpg");
+	display: block;
+	position: fixed;
+	bottom: 10%;
+	border:3px solid black;
+	background-color: white;
+}
+#seven:hover:after{
+	content: url("http://vignette3.wikia.nocookie.net/mario/images/1/1c/Mario_MK7.png/revision/latest?cb=20130821011125&path-prefix=fr");
+	display: block;
+	position: fixed;
+	bottom: 10%;
+	border:3px solid black;
+	background-color: white;
+}
+#eight:hover:after{
+	content: url("http://g-ecx.images-amazon.com/images/G/01/toys-and-games/brands/LEGO/LEGO_logo._V153554060_.jpg");
+	display: block;
+	position: fixed;
+	bottom: 10%;
+	border:3px solid black;
+	background-color: black;
+}
+#nine:hover:after{
+	content: url("https://upload.wikimedia.org/wikipedia/en/7/76/Ultima_Online_cover.jpg");
+	display: block;
+	position: fixed;
+	bottom: 10%;
+	border:3px solid black;
+	background-color: black;
+}
+#ten:hover:after{
+	content: url("http://www.f2pmmogs.com/wp-content/themes/twentytwelve/images/logo-hhw.png");
+	display: block;
+	position: fixed;
+	bottom: 10%;
+	border:3px solid black;
+	background-color: white;
+}
+#eleven:hover:after{
+	content: url("https://bnetus-a.akamaihd.net/shop/static/images/logos/logo-family-starcraft-d5758148e1.png");
+	display: block;
+	position: fixed;
+	bottom: 10%;
+	border:3px solid black;
+	background-color: white;
+}
+#twelve:hover:after{
+	content: url("https://cdn.downdetector.com/static/uploads/c/300/e2bf9/Destiny_Logo.png");
+	display: block;
+	position: fixed;
+	bottom: 10%;
+	border:3px solid black;
+	background-color: white;
+}
